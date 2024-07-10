@@ -8,8 +8,8 @@
 ## 运行方式：
 ### 前端
 1. 配置后端API IP和端口， 在web-ui路径下创建.env.local文件，然后填入：
-···bash    
-    NEXT_PUBLIC_API_BASE_URL=http://<IP>:<Port>
+```bash    
+    NEXT_PUBLIC_API_BASE_URL=http://IP:Port
 ```
 2. 在前端路径web-ui目录下运行, 默认前端服务端口3000：
 ```bash
